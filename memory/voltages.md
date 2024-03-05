@@ -5,7 +5,7 @@ There are five main voltages that are essential for overclocking DDR5 memory. Th
 - VDD Voltage (VDIMM)
 - VDDQ Voltage
 
-** VDDQ TX Voltage (IVR Transmitter VDDQ Voltage)** 
+** VDDQ TX Voltage (IVR Transmitter VDDQ Voltage)
 - This is the * real * memory controller voltage on the CPU. 
 - It is the CPU side that powers the memory. 
 - You should start off with a good baseline and park it there as you tune other voltages
@@ -15,7 +15,7 @@ There are five main voltages that are essential for overclocking DDR5 memory. Th
 - Essentially throttles inbound bandwidth so that you can tune the other voltages
 - If it is too high you will struggle with the other voltages.
 
-** IMC VDD ** 
+** IMC VDD 
 - This is the memory controller voltage on the motherboard. 
 - It interacts with VDDQ TX Voltage.
 - You shoudl start off with a good baseline and park it there.
